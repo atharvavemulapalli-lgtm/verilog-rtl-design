@@ -1,7 +1,11 @@
 # Simulation outputs
 *.vcd
 *.vvp
+*.out
 sim
+
+# Logs
+*.log
 
 # VS Code settings
 .vscode/
