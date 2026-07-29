@@ -13,5 +13,6 @@ A collection of Verilog RTL modules implemented while learning digital design.
 - FSM
   - Sequence Detector
   - Traffic Light Controller
+  - Vending Machine Controller
 
 More RTL modules will be added as I progress.
